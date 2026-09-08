@@ -25,7 +25,7 @@
 > 🛡️ Segurança organizacional em ambientes de trabalho e eventos corporativos
 
 ## 📫 Como me encontrar
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yan-geremias-da-silva/">
+<a href="https://www.linkedin.com/in/yan-geremias-da-silva/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>
 <a href="mailto:yan.kaue.geremias@gmail.com">
