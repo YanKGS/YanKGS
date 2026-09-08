@@ -1,6 +1,13 @@
 ## Olá, eu sou o Yan 👋
  🎓 Graduando em Ciência da Computação (4º período) | 💻 codando ativo na Ecomp | 🇯🇵 amante de cultura japonesa | 🕹️ apreciador de cultura geek
 
+- Principais linguagens: **React Native**, **JavaScript/TypeScript**
+<div style="inline">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
+
 ## 📚 Também capacitado em:
 <div style="inline">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
@@ -24,3 +31,5 @@
 <a href="mailto:yan.kaue.geremias@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+## Ademais, sempre disposto a aprender mais!
